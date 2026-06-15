@@ -235,6 +235,7 @@ onMounted(fetchProducts)
           <div class="logo-sub">ระบบจัดการสินค้าคงคลัง</div>
         </div>
       </div>
+      <span class="header-author">นายวุฒินันท์ สังขาวิเทียร</span>
       <button class="btn-add" @click="openAdd">+ เพิ่มสินค้า</button>
     </header>
 
